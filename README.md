@@ -2,13 +2,11 @@
 
 I'm an undergraduate informatics student at Institut Teknologi Bandung. I enjoy systems development, network, and infrastructure, but I am also interested in software engineering and website development.
 
+![V2.5 Raycast](https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/chuu.gif)
+
 I also love learning new and questionable things
 > Do you know that animals "knees" are anatomically not the same with human knees? What usually are knees in other animals are actually the joint on our ankles (*I don't know what those are called, sorry*)
 
-## Notable Stuff
-IF2230-OS, a from-scratch operating system with *uhhh*
-
-![V2.5 Raycast](https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/chuu.gif)
 
 ## Stats
 > *Nooo don't look at my stats I'm an impostor*
