@@ -10,10 +10,8 @@ IF2230-OS, a from-scratch operating system with *uhhh*
 
 ![V2.5 Raycast](https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/chuu.gif)
 
-*yea*
-
 ## Stats
-> *Nooo don't look at my stats*
+> *Nooo don't look at my stats I'm an impostor*
 <p align="center">
     <a href="https://github.com/muhamadajiw/muhamadajiw">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadajiw&show_icons=true&include_all_commits=true&layout=compact&langs_count=8" />
