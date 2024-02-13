@@ -2,7 +2,9 @@
 
 I'm an undergraduate informatics student at Institut Teknologi Bandung. I enjoy systems development, network, and infrastructure, but I am also interested in software engineering and website development.
 
-![V2.5 Raycast](https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/chuu.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/chuu.gif" alt="V2.5 Raycast">
+</p>
 
 I also love learning new and questionable things
 > Do you know that animals "knees" are anatomically not the same with human knees? What usually are knees in other animals are actually the joint on our ankles (*I don't know what those are called, sorry*)
