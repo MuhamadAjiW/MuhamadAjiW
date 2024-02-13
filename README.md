@@ -9,6 +9,7 @@ I also love learning new and questionable things
 IF2230-OS, a from-scratch operating system with *uhhh*
 
 ![V2.5 Raycast](https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/chuu.gif)
+
 *yea*
 
 ## Stats
