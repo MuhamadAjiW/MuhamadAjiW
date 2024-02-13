@@ -1,4 +1,4 @@
-# Hi, Muhamad Aji Wibisono here! 👋
+# Hi, Awe here! 👋
 
 I'm an undergraduate informatics student at Institut Teknologi Bandung. I enjoy systems development, network, and infrastructure, but I am also interested in software engineering and website development.
 
