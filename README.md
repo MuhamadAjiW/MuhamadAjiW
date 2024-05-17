@@ -2,16 +2,14 @@
 
 I'm an undergraduate informatics student at Institut Teknologi Bandung. I enjoy systems development, network, infrastructure, and surprisingly gamedev but I am also interested in software engineering and website development.
 
-<div style="display: flex; justify-content: space-between; align-items: center">
-<div style="text-align: center">
+<p align="center">
     <img src="https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/chuu.gif" alt="V2.5 Raycast">
     <p align="center"><i style="font-size: smaller;">That's a 32 bit multitasking graphical os with a window compositor and gif running inside of it</i></p>
-</div>
-<div style="text-align: center">
+</p>
+<p align="center">
     <img src="https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/Gengshin.gif" alt="V2.5 Raycast">
     <p align="center"><i style="font-size: smaller;">That's uhhh genshin impact with guns, I guess?</i></p>
-</div>
-</div>
+</p>
 
 ### I also love learning new and questionable things
 > Do you know that gorilla's scientific name is Gorilla Gorilla Gorilla?
