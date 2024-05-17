@@ -1,6 +1,6 @@
 # Hi, Awé here! 👋
 
-I'm an undergraduate informatics student at Institut Teknologi Bandung. I enjoy systems development, network, infrastructure, and surprisingly game development but I am also interested in software engineering and website development.
+I'm an undergraduate informatics student at Institut Teknologi Bandung. I enjoy systems development, network, infrastructure, and surprisingly game development. I am also interested in software engineering and website development.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/chuu.gif" alt="V2.5 Raycast">
