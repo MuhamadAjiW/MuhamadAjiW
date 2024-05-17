@@ -1,12 +1,16 @@
-# Hi, Awe here! 👋
+# Hi, Awé here! 👋
 
 I'm an undergraduate informatics student at Institut Teknologi Bandung. I enjoy systems development, network, and infrastructure, but I am also interested in software engineering and website development.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/chuu.gif" alt="V2.5 Raycast">
+  <p align="center">That's a 32 bit multitasking graphical os with a window compositor and gif running inside of it</p>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/Gengshin.gif" alt="V2.5 Raycast">
 </p>
 
-I also love learning new and questionable things
+### I also love learning new and questionable things
 > Do you know that animals "knees" are anatomically not the same with human knees? What usually are knees in other animals are actually the joint on our ankles (*I don't know what those are called, sorry*)
 
 
