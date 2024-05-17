@@ -32,7 +32,7 @@ Also find me on these platforms!
 Channel   | Detail
 ----      | -----
 Email     | muhamadajiw71@gmail.com
-Linkedin  | [Muhamad Aji Wibisono](https://www.linkedin.com/in/muhamad-aji-wibisono-a896a2261)
+Linkedin  | [Muhamad Aji Wibisono](https://www.linkedin.com/in/muhamad-awe)
 Twitter   | [@fdicapslock](https://twitter.com/fdicapslock)
 
 <!-- ## Tools and Technologies
