@@ -3,15 +3,16 @@
 I'm an undergraduate informatics student at Institut Teknologi Bandung. I enjoy systems development, network, infrastructure, and surprisingly gamedev but I am also interested in software engineering and website development.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/chuu.gif" alt="V2.5 Raycast">
-  <p align="center">That's a 32 bit multitasking graphical os with a window compositor and gif running inside of it</p>
+    <img src="https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/chuu.gif" alt="V2.5 Raycast">
+    <p align="center"><i style="font-size: smaller;">That's a 32 bit multitasking graphical os with a window compositor and gif running inside of it</i></p>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/Gengshin.gif" alt="V2.5 Raycast">
+    <img src="https://raw.githubusercontent.com/MuhamadAjiW/MuhamadAjiW/main/assets/Gengshin.gif" alt="V2.5 Raycast">
+    <p align="center"><i style="font-size: smaller;">That's uhhh genshin impact with guns, I guess?</i></p>
 </p>
 
 ### I also love learning new and questionable things
-> Do you know that animals "knees" are anatomically not the same with human knees? What usually are knees in other animals are actually the joint on our ankles (*I don't know what those are called, sorry*)
+> Do you know that gorilla's scientific name is Gorilla Gorilla Gorilla?
 
 
 ## Stats
