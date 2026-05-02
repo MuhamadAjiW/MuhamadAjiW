@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Do you know that gorilla's scientific name is Gorilla Gorilla Gorilla?<!--/daily-content-->
+> <!--daily-content-->Tigers have striped skin, not just striped fur.<!--/daily-content-->
 
 
 ## Stats
