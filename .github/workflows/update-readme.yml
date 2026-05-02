@@ -1,0 +1,58 @@
+name: Update README with random joke/fact
+
+on:
+  schedule:
+    - cron: '0 17 * * *' # 00:00 UTC+7
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch random content
+        run: |
+          # Randomly pick joke or fact
+          if [ $((RANDOM % 2)) -eq 0 ]; then
+            CONTENT=$(curl -sf --max-time 10 "https://api.weaji.id/api/jokes?format=flat" || echo "")
+          else
+            CONTENT=$(curl -sf --max-time 10 "https://api.weaji.id/api/facts?format=flat" || echo "")
+          fi
+
+          # Fallback if API is down
+          if [ -z "$CONTENT" ]; then
+            CONTENT="Do you know that gorilla's scientific name is Gorilla Gorilla Gorilla?"
+          fi
+
+          # Write to env file to handle special characters safely
+          echo "CONTENT<<EOF" >> "$GITHUB_ENV"
+          echo "$CONTENT" >> "$GITHUB_ENV"
+          echo "EOF" >> "$GITHUB_ENV"
+
+      - name: Update README
+        run: |
+          python3 -c "
+          import re, os
+
+          content = os.environ['CONTENT']
+          with open('README.md', 'r') as f:
+              readme = f.read()
+
+          readme = re.sub(
+              r'<!--daily-content-->.*?<!--/daily-content-->',
+              f'<!--daily-content-->{content}<!--/daily-content-->',
+              readme,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w') as f:
+              f.write(readme)
+          "
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || (git commit -m "Update random joke/fact" && git push)

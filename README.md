@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> Do you know that gorilla's scientific name is Gorilla Gorilla Gorilla?
+> <!--daily-content-->Do you know that gorilla's scientific name is Gorilla Gorilla Gorilla?<!--/daily-content-->
 
 
 ## Stats
