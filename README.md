@@ -15,7 +15,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 > <!--daily-content-->Tigers have striped skin, not just striped fur.<!--/daily-content-->
 
 
-## Stats
+<!-- ## Stats
 > *Nooo don't look at my stats I'm an impostor*
 <p align="center">
     <a href="https://github.com/muhamadajiw/muhamadajiw">
@@ -24,7 +24,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
     <a href="https://github.com/muhamadajiw/muhamadajiw">
         <img src="https://github-readme-stats.vercel.app/api?username=muhamadajiw&show_icons=true" />
     </a>
-</p>
+</p> -->
 
 ## Contact
 Also find me on these platforms!
@@ -34,3 +34,4 @@ Channel   | Detail
 Email     | muhamadajiw71@gmail.com
 Linkedin  | [Muhamad Aji Wibisono](https://www.linkedin.com/in/muhamad-awe)
 Twitter   | [@fdicapslock](https://twitter.com/fdicapslock)
+Website   | [Weaji.id](https://weaji.id)
