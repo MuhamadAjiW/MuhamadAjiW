@@ -1,4 +1,4 @@
-# Hi, Awé here! 👋
+# Hi, Awé here.
 
 I enjoy systems development, network, infrastructure, and surprisingly game development. I am also interested in software engineering and website development.
 
