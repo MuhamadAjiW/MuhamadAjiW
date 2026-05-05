@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->One quarter of your bones are in your feet.<!--/daily-content-->
+> <!--daily-content-->What do you call a pig that does karate? A pork chop.<!--/daily-content-->
 
 
 <!-- ## Stats
