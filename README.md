@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a sleeping bull? A bulldozer.<!--/daily-content-->
+> <!--daily-content-->A 'jiffy' is an actual unit of time for 1/100th of a second.<!--/daily-content-->
 
 
 <!-- ## Stats
