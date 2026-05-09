@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->A 'jiffy' is an actual unit of time for 1/100th of a second.<!--/daily-content-->
+> <!--daily-content-->What do you call a pony with a cough? A little horse.<!--/daily-content-->
 
 
 <!-- ## Stats
