@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a pony with a cough? A little horse.<!--/daily-content-->
+> <!--daily-content-->In the course of an average lifetime, while sleeping you might eat around 70 assorted insects and 10 spiders, or more.<!--/daily-content-->
 
 
 <!-- ## Stats
