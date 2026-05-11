@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->In the course of an average lifetime, while sleeping you might eat around 70 assorted insects and 10 spiders, or more.<!--/daily-content-->
+> <!--daily-content-->The 'sixth sick sheik's sixth sheep's sick' is believed to be the toughest tongue twister in the English language.<!--/daily-content-->
 
 
 <!-- ## Stats
