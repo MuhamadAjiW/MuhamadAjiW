@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The Earth is not a perfect sphere.<!--/daily-content-->
+> <!--daily-content-->What do you call a fish with no eyes? Fsh.<!--/daily-content-->
 
 
 <!-- ## Stats
