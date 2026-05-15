@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->It is physically impossible for pigs to look up into the sky.<!--/daily-content-->
+> <!--daily-content-->What do you call a cow with no legs? Ground beef.<!--/daily-content-->
 
 
 <!-- ## Stats
