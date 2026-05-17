@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why couldn't the leopard play hide and seek? Because he was always spotted.<!--/daily-content-->
+> <!--daily-content-->There are 293 ways to make change for a dollar.<!--/daily-content-->
 
 
 <!-- ## Stats
