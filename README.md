@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->There are 293 ways to make change for a dollar.<!--/daily-content-->
+> <!--daily-content-->A cloud can weigh more than a million pounds.<!--/daily-content-->
 
 
 <!-- ## Stats
