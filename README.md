@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->A cloud can weigh more than a million pounds.<!--/daily-content-->
+> <!--daily-content-->Stewardesses is the longest word typed with only the left hand.<!--/daily-content-->
 
 
 <!-- ## Stats
