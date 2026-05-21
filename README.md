@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The average person walks the equivalent of five times around the world in a lifetime.<!--/daily-content-->
+> <!--daily-content-->Why did the cookie cry? Because his mother was a wafer so long.<!--/daily-content-->
 
 
 <!-- ## Stats
