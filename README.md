@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the cookie cry? Because his mother was a wafer so long.<!--/daily-content-->
+> <!--daily-content-->What do you call cheese that isn't yours? Nacho cheese.<!--/daily-content-->
 
 
 <!-- ## Stats
