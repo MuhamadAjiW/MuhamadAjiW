@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Elephants are the only animals that can't jump.<!--/daily-content-->
+> <!--daily-content-->Goats have rectangular pupils.<!--/daily-content-->
 
 
 <!-- ## Stats
