@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The 'sixth sick sheik's sixth sheep's sick' is believed to be the toughest tongue twister in the English language.<!--/daily-content-->
+> <!--daily-content-->The longest English word is 189,819 letters long and takes 3.5 hours to pronounce.<!--/daily-content-->
 
 
 <!-- ## Stats
