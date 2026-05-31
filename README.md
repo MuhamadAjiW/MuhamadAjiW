@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a cow with no legs? Ground beef.<!--/daily-content-->
+> <!--daily-content-->The word 'set' has the highest number of definitions.<!--/daily-content-->
 
 
 <!-- ## Stats
