@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The word 'set' has the highest number of definitions.<!--/daily-content-->
+> <!--daily-content-->A dragonfly has a lifespan of 24 hours.<!--/daily-content-->
 
 
 <!-- ## Stats
