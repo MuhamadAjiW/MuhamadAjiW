@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->A dragonfly has a lifespan of 24 hours.<!--/daily-content-->
+> <!--daily-content-->What do you call a fish wearing a bowtie? Sofishticated.<!--/daily-content-->
 
 
 <!-- ## Stats
