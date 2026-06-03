@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a fish wearing a bowtie? Sofishticated.<!--/daily-content-->
+> <!--daily-content-->The shortest war in history lasted 38 minutes between Britain and Zanzibar in 1896.<!--/daily-content-->
 
 
 <!-- ## Stats
