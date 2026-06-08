@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The unicorn is the national animal of Scotland.<!--/daily-content-->
+> <!--daily-content-->What do you call a dog that can do magic? A labracadabrador.<!--/daily-content-->
 
 
 <!-- ## Stats
