@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a dog that can do magic? A labracadabrador.<!--/daily-content-->
+> <!--daily-content-->There are 293 ways to make change for a dollar.<!--/daily-content-->
 
 
 <!-- ## Stats
