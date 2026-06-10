@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->There are 293 ways to make change for a dollar.<!--/daily-content-->
+> <!--daily-content-->The only letter that doesn't appear on the periodic table is J.<!--/daily-content-->
 
 
 <!-- ## Stats
