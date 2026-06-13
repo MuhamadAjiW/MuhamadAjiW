@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Ketchup was once sold as medicine.<!--/daily-content-->
+> <!--daily-content-->The Earth is not a perfect sphere.<!--/daily-content-->
 
 
 <!-- ## Stats
