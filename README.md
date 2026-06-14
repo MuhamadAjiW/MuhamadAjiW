@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The Earth is not a perfect sphere.<!--/daily-content-->
+> <!--daily-content-->People say 'Bless you' when you sneeze because when you sneeze, your heart stops for a millisecond.<!--/daily-content-->
 
 
 <!-- ## Stats
