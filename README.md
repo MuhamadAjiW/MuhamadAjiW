@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->People say 'Bless you' when you sneeze because when you sneeze, your heart stops for a millisecond.<!--/daily-content-->
+> <!--daily-content-->Why did the melon jump into the lake? It wanted to be a water-melon.<!--/daily-content-->
 
 
 <!-- ## Stats
