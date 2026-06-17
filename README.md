@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The only letter that doesn't appear on the periodic table is J.<!--/daily-content-->
+> <!--daily-content-->The 'sixth sick sheik's sixth sheep's sick' is believed to be the toughest tongue twister in the English language.<!--/daily-content-->
 
 
 <!-- ## Stats
