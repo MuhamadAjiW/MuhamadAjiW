@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a boomerang that won't come back? A stick.<!--/daily-content-->
+> <!--daily-content-->Most people fall asleep in seven minutes.<!--/daily-content-->
 
 
 <!-- ## Stats
