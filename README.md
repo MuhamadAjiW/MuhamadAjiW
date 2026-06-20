@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Most people fall asleep in seven minutes.<!--/daily-content-->
+> <!--daily-content-->There are more fake flamingos in the world than real ones.<!--/daily-content-->
 
 
 <!-- ## Stats
