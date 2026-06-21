@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->There are more fake flamingos in the world than real ones.<!--/daily-content-->
+> <!--daily-content-->Why couldn't the leopard play hide and seek? Because he was always spotted.<!--/daily-content-->
 
 
 <!-- ## Stats
