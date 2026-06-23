@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the gym close down? It just didn't work out.<!--/daily-content-->
+> <!--daily-content-->Dreamt is the only English word that ends in the letters 'mt'.<!--/daily-content-->
 
 
 <!-- ## Stats
