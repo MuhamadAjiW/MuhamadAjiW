@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a dinosaur with an extensive vocabulary? A thesaurus.<!--/daily-content-->
+> <!--daily-content-->Why did the chicken go to the seance? To get to the other side.<!--/daily-content-->
 
 
 <!-- ## Stats
