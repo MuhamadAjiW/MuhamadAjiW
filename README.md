@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the chicken go to the seance? To get to the other side.<!--/daily-content-->
+> <!--daily-content-->What do you call a pig that does karate? A pork chop.<!--/daily-content-->
 
 
 <!-- ## Stats
