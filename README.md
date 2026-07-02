@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Hot water turns into ice faster than cold water, a phenomenon known as the Mpemba effect.<!--/daily-content-->
+> <!--daily-content-->Why did the cookie go to the hospital? Because he felt crummy.<!--/daily-content-->
 
 
 <!-- ## Stats
