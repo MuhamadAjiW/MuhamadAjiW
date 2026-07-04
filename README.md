@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Russia has a larger surface area than Pluto.<!--/daily-content-->
+> <!--daily-content-->What do you call a bear with no ears? B.<!--/daily-content-->
 
 
 <!-- ## Stats
