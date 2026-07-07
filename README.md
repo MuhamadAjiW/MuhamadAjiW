@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a boomerang that won't come back? A stick.<!--/daily-content-->
+> <!--daily-content-->Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.<!--/daily-content-->
 
 
 <!-- ## Stats
