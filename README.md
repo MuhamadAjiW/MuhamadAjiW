@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.<!--/daily-content-->
+> <!--daily-content-->Why did the golfer wear two pairs of pants? In case he got a hole in one.<!--/daily-content-->
 
 
 <!-- ## Stats
