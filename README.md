@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the golfer wear two pairs of pants? In case he got a hole in one.<!--/daily-content-->
+> <!--daily-content-->When hippos are upset, their sweat turns red.<!--/daily-content-->
 
 
 <!-- ## Stats
