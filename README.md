@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the banana go to the doctor? He wasn't peeling well.<!--/daily-content-->
+> <!--daily-content-->What do you call a dog that can do magic? A labracadabrador.<!--/daily-content-->
 
 
 <!-- ## Stats
