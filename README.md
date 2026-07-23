@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the computer go to the doctor? Because it had a virus.<!--/daily-content-->
+> <!--daily-content-->The state of Florida is bigger than England.<!--/daily-content-->
 
 
 <!-- ## Stats
