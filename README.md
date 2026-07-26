@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the chicken go to the seance? To get to the other side.<!--/daily-content-->
+> <!--daily-content-->Cows have best friends and get stressed when they are separated.<!--/daily-content-->
 
 
 <!-- ## Stats
