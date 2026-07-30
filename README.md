@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->A bolt of lightning contains enough energy to toast 100,000 slices of bread.<!--/daily-content-->
+> <!--daily-content-->The word 'set' has the highest number of definitions.<!--/daily-content-->
 
 
 <!-- ## Stats
