@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the computer go to the doctor? Because it had a virus.<!--/daily-content-->
+> <!--daily-content-->Wearing headphones for just an hour could increase the bacteria in your ear by 700 times.<!--/daily-content-->
 
 
 <!-- ## Stats
