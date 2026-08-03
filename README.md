@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Wearing headphones for just an hour could increase the bacteria in your ear by 700 times.<!--/daily-content-->
+> <!--daily-content-->Why did the chicken go to the seance? To get to the other side.<!--/daily-content-->
 
 
 <!-- ## Stats
