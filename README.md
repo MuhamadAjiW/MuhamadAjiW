@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the chicken go to the seance? To get to the other side.<!--/daily-content-->
+> <!--daily-content-->The word 'set' has the highest number of definitions.<!--/daily-content-->
 
 
 <!-- ## Stats
