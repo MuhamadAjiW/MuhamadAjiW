@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The wood frog can freeze solid during winter and thaw out in the spring.<!--/daily-content-->
+> <!--daily-content-->Oxford University is older than the Aztec Empire.<!--/daily-content-->
 
 
 <!-- ## Stats
