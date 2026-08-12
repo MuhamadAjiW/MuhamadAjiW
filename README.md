@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the cookie go to the hospital? Because he felt crummy.<!--/daily-content-->
+> <!--daily-content-->A 'moment' is 90 seconds.<!--/daily-content-->
 
 
 <!-- ## Stats
