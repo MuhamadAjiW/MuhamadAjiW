@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Like fingerprints, everyone's tongue print is different.<!--/daily-content-->
+> <!--daily-content-->Oxford University is older than the Aztec Empire.<!--/daily-content-->
 
 
 <!-- ## Stats
