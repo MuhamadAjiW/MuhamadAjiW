@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->If you sneeze too hard, you could fracture a rib.<!--/daily-content-->
+> <!--daily-content-->What do you call a fly without wings? A walk.<!--/daily-content-->
 
 
 <!-- ## Stats
