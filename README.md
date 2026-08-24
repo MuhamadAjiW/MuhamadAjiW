@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a belt made of watches? A waist of time.<!--/daily-content-->
+> <!--daily-content-->Why did the coffee file a police report? It got mugged.<!--/daily-content-->
 
 
 <!-- ## Stats
