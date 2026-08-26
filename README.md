@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->If you sneeze too hard, you could fracture a rib.<!--/daily-content-->
+> <!--daily-content-->Why did the melon jump into the lake? It wanted to be a water-melon.<!--/daily-content-->
 
 
 <!-- ## Stats
