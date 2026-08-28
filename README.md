@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the melon jump into the lake? It wanted to be a water-melon.<!--/daily-content-->
+> <!--daily-content-->A jiffy is an actual unit of time: 1/100th of a second.<!--/daily-content-->
 
 
 <!-- ## Stats
