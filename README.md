@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->A jiffy is an actual unit of time: 1/100th of a second.<!--/daily-content-->
+> <!--daily-content-->Why did the golfer bring two pairs of pants? In case he got a hole in one.<!--/daily-content-->
 
 
 <!-- ## Stats
