@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the golfer bring two pairs of pants? In case he got a hole in one.<!--/daily-content-->
+> <!--daily-content-->A group of flamingos is called a 'flamboyance'.<!--/daily-content-->
 
 
 <!-- ## Stats
