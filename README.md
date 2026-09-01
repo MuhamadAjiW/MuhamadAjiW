@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->A group of flamingos is called a 'flamboyance'.<!--/daily-content-->
+> <!--daily-content-->Almonds are a member of the peach family.<!--/daily-content-->
 
 
 <!-- ## Stats
