@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Almonds are a member of the peach family.<!--/daily-content-->
+> <!--daily-content-->A bolt of lightning contains enough energy to toast 100,000 slices of bread.<!--/daily-content-->
 
 
 <!-- ## Stats
