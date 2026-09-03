@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->A bolt of lightning contains enough energy to toast 100,000 slices of bread.<!--/daily-content-->
+> <!--daily-content-->What do you call a pile of cats? A meowtain.<!--/daily-content-->
 
 
 <!-- ## Stats
