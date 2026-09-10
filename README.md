@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a factory that makes okay products? A satisfactory.<!--/daily-content-->
+> <!--daily-content-->A goldfish has a memory span of three seconds.<!--/daily-content-->
 
 
 <!-- ## Stats
