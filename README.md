@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->A goldfish has a memory span of three seconds.<!--/daily-content-->
+> <!--daily-content-->Dying is illegal in the Houses of Parliaments.<!--/daily-content-->
 
 
 <!-- ## Stats
