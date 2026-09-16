@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why couldn't the leopard play hide and seek? Because he was always spotted.<!--/daily-content-->
+> <!--daily-content-->What do you call a dinosaur that is sleeping? A dino-snore.<!--/daily-content-->
 
 
 <!-- ## Stats
