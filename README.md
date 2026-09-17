@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a dinosaur that is sleeping? A dino-snore.<!--/daily-content-->
+> <!--daily-content-->What do you call a funny mountain? Hill-arious.<!--/daily-content-->
 
 
 <!-- ## Stats
