@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the student eat his homework? Because the teacher said it was a piece of cake.<!--/daily-content-->
+> <!--daily-content-->A crocodile cannot stick its tongue out.<!--/daily-content-->
 
 
 <!-- ## Stats
