@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the picture go to jail? Because it was framed.<!--/daily-content-->
+> <!--daily-content-->The average person walks the equivalent of five times around the world in a lifetime.<!--/daily-content-->
 
 
 <!-- ## Stats
