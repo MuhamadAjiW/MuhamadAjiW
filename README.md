@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a can opener that doesn't work? A can't opener.<!--/daily-content-->
+> <!--daily-content-->In the UK, it is illegal to eat mince pies on Christmas Day.<!--/daily-content-->
 
 
 <!-- ## Stats
