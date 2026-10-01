@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->A single strand of spaghetti is called a 'spaghetto'.<!--/daily-content-->
+> <!--daily-content-->Avocados are toxic to birds.<!--/daily-content-->
 
 
 <!-- ## Stats
