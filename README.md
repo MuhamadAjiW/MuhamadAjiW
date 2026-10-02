@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Avocados are toxic to birds.<!--/daily-content-->
+> <!--daily-content-->Do you know that gorilla's scientific name is Gorilla Gorilla Gorilla?<!--/daily-content-->
 
 
 <!-- ## Stats
