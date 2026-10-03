@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Do you know that gorilla's scientific name is Gorilla Gorilla Gorilla?<!--/daily-content-->
+> <!--daily-content-->What do you call a pig that does karate? A pork chop.<!--/daily-content-->
 
 
 <!-- ## Stats
