@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->A 'moment' is 90 seconds.<!--/daily-content-->
+> <!--daily-content-->High heels were originally worn by men.<!--/daily-content-->
 
 
 <!-- ## Stats
