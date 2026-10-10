@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->It is physically impossible for pigs to look up into the sky.<!--/daily-content-->
+> <!--daily-content-->There are only four words in the English language which end in 'dous': tremendous, horrendous, stupendous, and hazardous.<!--/daily-content-->
 
 
 <!-- ## Stats
