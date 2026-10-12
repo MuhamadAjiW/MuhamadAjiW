@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The shark is the only animal that can blink with both eyes.<!--/daily-content-->
+> <!--daily-content-->Why did the hipster burn his tongue? He drank his coffee before it was cool.<!--/daily-content-->
 
 
 <!-- ## Stats
