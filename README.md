@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The fingerprints of a koala are so indistinguishable from humans that they have on occasion been confused at a crime scene.<!--/daily-content-->
+> <!--daily-content-->Firefighters use wetting agents to make water wetter.<!--/daily-content-->
 
 
 <!-- ## Stats
