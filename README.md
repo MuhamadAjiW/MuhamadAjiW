@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Wombat poop is cube-shaped.<!--/daily-content-->
+> <!--daily-content-->Why did the music teacher go to the ladder? To reach the high notes.<!--/daily-content-->
 
 
 <!-- ## Stats
