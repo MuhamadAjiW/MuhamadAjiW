@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the music teacher go to the ladder? To reach the high notes.<!--/daily-content-->
+> <!--daily-content-->What do you call a fish with no eyes? Fsh.<!--/daily-content-->
 
 
 <!-- ## Stats
