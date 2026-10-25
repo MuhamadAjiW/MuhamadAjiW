@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why do bees have sticky hair? Because they use honeycombs.<!--/daily-content-->
+> <!--daily-content-->What do you call a pile of cats? A meowtain.<!--/daily-content-->
 
 
 <!-- ## Stats
