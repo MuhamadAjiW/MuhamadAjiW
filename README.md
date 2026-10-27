@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a pile of cats? A meowtain.<!--/daily-content-->
+> <!--daily-content-->High heels were originally worn by men.<!--/daily-content-->
 
 
 <!-- ## Stats
