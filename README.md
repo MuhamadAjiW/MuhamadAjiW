@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the golfer bring two pairs of pants? In case he got a hole in one.<!--/daily-content-->
+> <!--daily-content-->What do you call a snake who builds things? A boa constructor.<!--/daily-content-->
 
 
 <!-- ## Stats
