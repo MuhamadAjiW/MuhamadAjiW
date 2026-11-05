@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->What do you call a bear with no teeth? A gummy bear.<!--/daily-content-->
+> <!--daily-content-->What do you call a funny mountain? Hill-arious.<!--/daily-content-->
 
 
 <!-- ## Stats
