@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->A ball of glass will bounce higher than a ball of rubber.<!--/daily-content-->
+> <!--daily-content-->Why did the gym close down? It just didn't work out.<!--/daily-content-->
 
 
 <!-- ## Stats
