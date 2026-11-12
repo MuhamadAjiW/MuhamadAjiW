@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the belt go to jail? For holding up a pair of pants.<!--/daily-content-->
+> <!--daily-content-->Pteronophobia is the fear of being tickled by feathers.<!--/daily-content-->
 
 
 <!-- ## Stats
