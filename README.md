@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Pteronophobia is the fear of being tickled by feathers.<!--/daily-content-->
+> <!--daily-content-->In the UK, it is illegal to eat mince pies on Christmas Day.<!--/daily-content-->
 
 
 <!-- ## Stats
