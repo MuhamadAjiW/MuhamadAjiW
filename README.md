@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->Why did the stadium get hot? All the fans left.<!--/daily-content-->
+> <!--daily-content-->What do you call a fly without wings? A walk.<!--/daily-content-->
 
 
 <!-- ## Stats
