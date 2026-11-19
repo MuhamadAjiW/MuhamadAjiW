@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The ocean is 80% unmapped.<!--/daily-content-->
+> <!--daily-content-->The longest muscle in the body is the tongue.<!--/daily-content-->
 
 
 <!-- ## Stats
