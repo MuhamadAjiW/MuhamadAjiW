@@ -12,7 +12,7 @@ I enjoy systems development, network, infrastructure, and surprisingly game deve
 </p>
 
 ### I also love learning new and questionable things
-> <!--daily-content-->The longest muscle in the body is the tongue.<!--/daily-content-->
+> <!--daily-content-->Why did the chicken go to the seance? To get to the other side.<!--/daily-content-->
 
 
 <!-- ## Stats
